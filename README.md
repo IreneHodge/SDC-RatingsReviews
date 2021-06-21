@@ -1,6 +1,6 @@
 # SDC-Ratings & Reviews
 
-##Systems Design Capstone for Hack Reactor
+*Systems Design Capstone for Hack Reactor*
 
 ***
 **Table of Contents**
