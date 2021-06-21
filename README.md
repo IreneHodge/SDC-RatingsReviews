@@ -4,10 +4,10 @@
 
 ***
 **Table of Contents**
-*Technologies
-*Development
-*Installation
-*Operation
+* Technologies
+* Development
+* Installation
+* Operation
 
 
 
